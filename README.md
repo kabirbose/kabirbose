@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kabir! 👋</h1>
-<h3 align="center">Network Engineer | Software Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">Network & Software Engineering </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KabirBose&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
@@ -9,10 +9,10 @@
 ---
 
 ### 🛠️ About Me  
-- 🖥️ **Network Engineering Intern @ CBC** (managing media-production infrastructure)  
-- 🎓 **3rd-year Networking & IT Student @ Ontario Tech University**  
-- ⚡ Passionate about **networking, cybersecurity, and full-stack development**  
-- ⚽ Enjoy **soccer, swimming, and working out**  
+- 👨‍💻 Network Engineering Intern @ CBC
+- 🎓 Networking & IT Security Student @ Ontario Tech University  
+- 👾 Passionate about networking and cybersecurity
+- 🤿 Enjoy soccer, swimming, and working out
 
 ---
 
