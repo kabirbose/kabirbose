@@ -1,7 +1,7 @@
 # About Me
 - 3rd year university student
 - Interested in cybersecurity and networking
-- Enjoys football and swimming
+- Enjoys soccer and swimming
 - Avid comic book reader
 
 # Stack
