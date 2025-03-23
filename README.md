@@ -1,1 +1,1 @@
-*"1 commit a day keeps the doctor away!"* - Kabir B.
+*"A commit a day keeps the doctor away!"* - Kabir B.
