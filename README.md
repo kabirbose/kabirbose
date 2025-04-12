@@ -1,1 +1,1 @@
-*"A commit a day keeps the doctor away."* - Kabir B.
+`banner motd # Kabir's GitHub! #`
