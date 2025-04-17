@@ -1,1 +1,1 @@
-`banner motd # Kabir's GitHub! #`
+`banner motd # Kabir's GitHub #`
